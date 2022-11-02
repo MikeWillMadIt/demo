@@ -26,4 +26,3 @@ feature/code-documentation
   color: red;
 }
 ```
-main
